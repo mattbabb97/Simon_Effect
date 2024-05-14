@@ -1,0 +1,22 @@
+FULLSCREEN?
+False
+TRAIN LEVEL: (1: no cursor movement, 2: 2 sec, 3: 3 sec, 4: 4 sec)
+1
+ICON CONDITION (1: Purple Triangle, 2: Orange Circle)
+1
+SESSION TYPE (1: Full task, 2: Half Go-No Go Task)
+2
+TRIALS PER BLOCK ()
+20
+BLOCKS PER SESSION
+100
+ITI (sec)
+5
+TRIAL DURATION (sec)
+5
+RUNTIME (in seconds)
+20000
+TIMEOUT (in seconds)
+20
+SIDE BIAS (0 = None, 1 = Left, 2 = Right)
+0
